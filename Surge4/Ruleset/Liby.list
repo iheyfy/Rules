@@ -346,7 +346,7 @@ DOMAIN,logs.chelaile.net.cn
 DOMAIN,ap.dongqiudi.com
 # (J)
 # 京东
-DOMAIN,dns.jd.com
+# DOMAIN,dns.jd.com
 IP-CIDR,101.124.19.122/32,no-resolve
 # (G)
 # > Google
